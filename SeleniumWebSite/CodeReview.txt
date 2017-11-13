@@ -1,0 +1,4 @@
+﻿Page objects should be created to make code independent and more readable
+Better to set dates in datepicker using JS executor since findbyelement always doesnt succeed
+better to have extension wait method through out or a common wait method rather than explicit waits wherever needed in code
+Autocomplete boxes doesnt always succeed using list of webelements, since we are giving the destination and from location as text its better to tab out and get the default selected
